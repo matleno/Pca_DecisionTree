@@ -21,22 +21,22 @@ Description of code is written in Italian, feel free to contact me for any quest
 
 <p align="center">
 Exploratory analysis: <br/>
-<img src="https://i.imgur.com/OrAhfBz.png" height="50%" width="50%" alt="example 1"/>
+<img src="https://i.imgur.com/OrAhfBz.png" height="50%" width="50%" alt="exp"/>
 <br />
 <br />
 Biplot:  <br/>
-<img src="https://i.imgur.com/1uQ4VEQ.png" height="50%" width="50%" alt="example 2"/>
+<img src="https://i.imgur.com/1uQ4VEQ.png" height="50%" width="50%" alt="biplot"/>
 <br />
 Logistic regression on PCA:  <br/>
-<img src="https://i.imgur.com/uEmH1Yu.png" height="50%" width="50%" alt="example 2"/>
+<img src="https://i.imgur.com/uEmH1Yu.png" height="50%" width="50%" alt="logreg"/>
 <br />
 Cost complexity pruning:  <br/>
-<img src="https://i.imgur.com/sp0k0nc.png" height="50%" width="50%" alt="example 2"/>
+<img src="https://i.imgur.com/sp0k0nc.png" height="50%" width="50%" alt="pruning"/>
 <br />
-<img src="https://i.imgur.com/2V1AtHV.png" height="50%" width="50%" alt="example 2"/>
+<img src="https://i.imgur.com/2V1AtHV.png" height="50%" width="50%" alt="pruning2"/>
 <br />
 Rpart library:  <br/>
-<img src="https://i.imgur.com/Q7JND9U.png" height="50%" width="50%" alt="example 2"/>
+<img src="https://i.imgur.com/Q7JND9U.png" height="50%" width="50%" alt="rpart"/>
 <br />
 
 <!--
